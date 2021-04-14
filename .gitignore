@@ -1,0 +1,9 @@
+*.exe
+*.pdb
+*.ipdb
+*.ilk
+*.iobj
+*.log
+*/.vs/
+*/Debug/
+*/Release/
